@@ -1,4 +1,6 @@
 #!/bin/bash
 
+python myart.py
+
 lspci 
-sudo dmideboard -t baseboard
+
